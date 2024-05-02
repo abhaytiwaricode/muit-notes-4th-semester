@@ -6,7 +6,7 @@ Explore the following subjects to gain a deep understanding of it:
 
 ##
 
-- **[Web Technology](Web%20Technology.md)**
+- *[Web Technology](Web%20Technology.md)*
   - **Unit 1: History of Web and Internet**
   - **Unit 2: Web Page Designing with HTML and CSS**
   - **Unit 3: JavaScript and Dynamic Web Development**
