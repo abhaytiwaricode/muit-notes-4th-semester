@@ -28,6 +28,8 @@ Explore the following subjects to gain a deep understanding of it:
 
 We value your feedback and contributions! Whether you have suggestions for improvement or want to contribute additional materials, your input is highly appreciated. Feel free to open an issue or submit a pull request.
 
+##
+
 ### License
 
 All course materials are licensed under the [MIT License](LICENSE), ensuring flexibility and accessibility for learners worldwide.
