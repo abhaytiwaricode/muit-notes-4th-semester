@@ -1,5 +1,7 @@
 ## Unit 1: Introduction Concepts
-- **Goals and Applications of Networks**: Networks are designed to facilitate communication and resource sharing among devices. The goals include efficient data transfer, resource sharing, reliability, and scalability. Examples of network applications include email, web browsing, file sharing, video streaming, and online gaming.
+
+1. **Goals and Applications of Networks**
+- **Networks are designed to facilitate communication and resource sharing among devices. The goals include efficient data transfer, resource sharing, reliability, and scalability. Examples of network applications include email, web browsing, file sharing, video streaming, and online gaming.**
 - **Network Structure and Architecture**: Networks can be classified based on their geographical scope (LAN, MAN, WAN) and topology (bus, star, mesh). For example, a LAN (Local Area Network) connects devices within a small geographic area like an office building or a home.
 - **The OSI Reference Model**: The OSI (Open Systems Interconnection) model defines a framework for understanding how networks operate. It consists of seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application. Each layer has specific functions, facilitating modular design and interoperability.
 - **Network Topology Design**: Network topology refers to the arrangement of nodes and links in a network. Delay analysis involves assessing the time it takes for data to travel from source to destination. Backbone design focuses on the high-speed links connecting different parts of a network.
