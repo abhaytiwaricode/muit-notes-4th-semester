@@ -175,8 +175,6 @@
    </script>
    ```
 
-Sure, let's dive deeper into each unit with examples:
-
 ## Unit: 3 - JavaScript and Dynamic Web Development
 
 1. **JavaScript**:
