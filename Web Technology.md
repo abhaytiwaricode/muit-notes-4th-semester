@@ -366,9 +366,7 @@
    if ($age < 18) {
        echo "You are underage.";
    } else {
-       echo "You
-
- are an adult.";
+       echo "You are an adult.";
    }
    for ($i = 0; $i < 5; $i++) {
        echo $i;
