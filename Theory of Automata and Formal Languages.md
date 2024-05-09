@@ -95,7 +95,7 @@
 
 A CFG G is a 4-tuple (N, Σ, P, S) where:
 
-* N: A finite set of non-terminal symbols (denoted with angled brackets, e.g., <S>, <NP>, etc).
+* N: A finite set of non-terminal symbols (denoted with angled brackets, e.g. , <S>, <NP>, etc).
 * Σ: A finite set of terminal symbols (letters from the alphabet, denoted without brackets, e.g., a, b, c). (Σ and N are disjoint sets; no symbol can be both terminal and non-terminal).
 * P: A finite set of productions (rules) of the form A -> α, where:
     * A is a non-terminal symbol on the left-hand side.
