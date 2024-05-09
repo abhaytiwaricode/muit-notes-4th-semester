@@ -57,8 +57,6 @@ By following these tips and reviewing the provided summary, you should be well-p
 
 ##
 
-##
-
 ### **[Web Technology](Web%20Technology.md)**
   - **Unit 1: History of Web and Internet**
   - **Unit 2: Web Page Designing with HTML and CSS**
